@@ -1,0 +1,85 @@
+#pagination {
+    text-align: center;
+    background-color: blue;
+}
+
+#pagination a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+#pagination a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.section-m1 {
+    margin: 40px 0;
+}
+
+.section1 {
+    padding: 40px 80px;
+}
+
+header {
+    background-color: blue;
+}
+footer {
+    background-color: blue;
+}
+a {
+    color: red;
+}
+
+.pertama {
+    color: red;
+}
+
+/*Mengubah warna menggunakan atribut id*/
+#kedua {
+    color: yellow;
+}
+
+/*Menempatkan posisi tulisan Tengah*/
+.kata1 {
+    text-align: center;
+}
+/*Menempatkan posisi tulisan dikiri*/
+.kata2 {
+    text-align: left;
+}
+/*Menempatkan posisi tulisan kanan*/
+.kata3 {
+    text-align: right;
+}
+/*Menempatkan posisi tulisan rata kiri dan kanan*/
+.kata4 {
+    text-align: justify;
+}
+.ukuran {
+    font-size: 50px;
+}
+
+.navigasi {
+    font-size: 30px;
+}
+/*Mengatur warna text link*/
+.navigasi:link{
+    color: red;
+}
+/*Mengatur warna text link saat sudah pernah dikunjungi*/
+.navigasi:visited {
+    color: green;
+}
+/*Mengatur warna text background link  */
+.navigasi:hover {
+    background-color: blue;
+}
+/*Mengatur warna text ketika di klik*/
+.navigasi:active {
+    color: yellow;
+}

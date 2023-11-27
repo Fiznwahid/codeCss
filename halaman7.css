@@ -1,0 +1,40 @@
+#pagination {
+    text-align: center;
+    background-color: blue;
+}
+
+#pagination a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+#pagination a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.section-m1 {
+    margin: 40px 0;
+}
+
+.section1 {
+    padding: 40px 80px;
+}
+
+header {
+    background-color: blue;
+}
+footer {
+    background-color: blue;
+}
+a {
+    color: red;
+}
+
+.copyright {
+    color: white;
+}

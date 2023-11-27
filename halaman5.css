@@ -1,0 +1,75 @@
+#pagination {
+    text-align: center;
+    background-color: blue;
+}
+
+#pagination a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+#pagination a i{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.section-m1 {
+    margin: 40px 0;
+}
+
+.section1 {
+    padding: 40px 80px;
+}
+
+header {
+    background-color: blue;
+}
+footer {
+    background-color: blue;
+}
+a {
+    color: red;
+}
+
+.copyright {
+    color: white;
+}
+
+.dashed {
+    border-style: dashed;
+    border-width: 5px;
+    color: green;
+}
+.dotted {
+    border-style: dotted;
+    border-width: 5px;
+    color: blue;
+}
+
+.bulat {
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin: auto;
+    border-radius: 100%;
+}
+
+.lv {
+    width: 200px;
+    height: 200px;
+    border-left-style: solid;
+    border-top-style: double;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+}
+
+.scroll {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    overflow: scroll;
+}
